@@ -1,0 +1,223 @@
+[
+  {
+    "id": 1,
+    "name": "Classic T-Shirt",
+    "price": 499,
+  "image": "/8991024.jpg",
+  "images": ["/8991024.jpg", "/7515257.jpg"],
+    "category": "T-Shirts",
+    "description": "A timeless cotton t-shirt with a soft touch and relaxed fit—perfect for everyday comfort.",
+    "stock": 34
+  },
+  {
+    "id": 2,
+    "name": "Printed Golf",
+    "price": 1999,
+  "image": "/9586688.jpg",
+  "images": ["/9586688.jpg", "/10069481.jpg"],
+    "category": "Sportswear",
+    "description": "A vibrant, high-quality printed golf shirt designed for style and performance on the course.",
+    "stock": 12
+  },
+  {
+    "id": 3,
+    "name": "Volleyball Tee",
+    "price": 2999,
+  "image": "/10069481.jpg",
+  "images": ["/10069481.jpg", "/8991024.jpg"],
+    "category": "Sportswear",
+    "description": "Stay active in style with this breathable volleyball tee featuring bold graphics and stretch comfort.",
+    "stock": 8
+  },
+  {
+    "id": 4,
+    "name": "White Warriors",
+    "price": 2499,
+  "image": "/9516481.jpg",
+  "images": ["/9516481.jpg", "/8991024.jpg"],
+    "category": "T-Shirts",
+    "description": "A sleek all-white performance shirt with a modern cut, made for those who stand out in simplicity.",
+    "stock": 20
+  },
+  {
+    "id": 5,
+    "name": "Smart Watch",
+    "price": 4999,
+  "image": "/7515257.jpg",
+  "images": ["/7515257.jpg"],
+    "category": "Accessories",
+    "description": "A lightweight smart wearable that tracks fitness, displays notifications, and adds tech to your style.",
+    "stock": 15
+  },
+  {
+    "id": 6,
+    "name": "Denim Jacket",
+    "price": 3499,
+  "image": "/7515257.jpg",
+  "images": ["/7515257.jpg", "/9516481.jpg"],
+    "category": "Outerwear",
+    "description": "Classic denim jacket with a modern slim fit and durable stitching.",
+    "stock": 6
+  },
+  {
+    "id": 7,
+    "name": "Running Shorts",
+    "price": 799,
+  "image": "/8991024.jpg",
+  "images": ["/8991024.jpg"],
+    "category": "Sportswear",
+    "description": "Lightweight running shorts with breathable mesh and an adjustable waistband.",
+    "stock": 40
+  },
+  {
+    "id": 8,
+    "name": "Leather Belt",
+    "price": 1199,
+  "image": "/9586688.jpg",
+  "images": ["/9586688.jpg", "/9516481.jpg"],
+    "category": "Accessories",
+    "description": "Premium leather belt with a matte buckle—great for casual and formal looks.",
+    "stock": 25
+  },
+  {
+    "id": 9,
+    "name": "Hooded Sweatshirt",
+    "price": 2199,
+  "image": "/10069481.jpg",
+  "images": ["/10069481.jpg", "/7515257.jpg"],
+    "category": "Outerwear",
+    "description": "Cozy hoodie made from soft brushed fleece with a roomy kangaroo pocket.",
+    "stock": 18
+  },
+  {
+    "id": 10,
+    "name": "Baseball Cap",
+    "price": 399,
+  "image": "/9516481.jpg",
+  "images": ["/9516481.jpg", "/8991024.jpg"],
+    "category": "Accessories",
+    "description": "Classic adjustable baseball cap with embroidered logo.",
+    "stock": 60
+  },
+  {
+    "id": 11,
+    "name": "Slim Fit Chinos",
+    "price": 2599,
+  "image": "/7515257.jpg",
+  "images": ["/7515257.jpg", "/9586688.jpg"],
+    "category": "Bottoms",
+    "description": "Versatile slim-fit chinos with stretch for comfort and a clean silhouette.",
+    "stock": 14
+  },
+  {
+    "id": 12,
+    "name": "Sports Socks (3-pack)",
+    "price": 299,
+  "image": "/8991024.jpg",
+  "images": ["/8991024.jpg", "/10069481.jpg"],
+    "category": "Accessories",
+    "description": "Breathable performance socks that wick moisture and stay in place.",
+    "stock": 120
+  }
+  ,
+  {
+    "id": 13,
+    "name": "Sunglasses",
+    "price": 899,
+  "image": "/9586688.jpg",
+  "images": ["/9586688.jpg", "/8991024.jpg"],
+    "category": "Accessories",
+    "description": "UV-protected polarized sunglasses with a modern frame.",
+    "stock": 45
+  },
+  {
+    "id": 14,
+    "name": "Leather Wallet",
+    "price": 1499,
+  "image": "/10069481.jpg",
+  "images": ["/10069481.jpg", "/9516481.jpg"],
+    "category": "Accessories",
+    "description": "Slim leather wallet with multiple card slots and coin pocket.",
+    "stock": 70
+  },
+  {
+    "id": 15,
+    "name": "Travel Backpack",
+    "price": 2999,
+  "image": "/9516481.jpg",
+  "images": ["/9516481.jpg", "/7515257.jpg"],
+    "category": "Accessories",
+    "description": "Durable travel backpack with laptop sleeve and multiple compartments.",
+    "stock": 22
+  },
+  {
+    "id": 16,
+    "name": "Wireless Headphones",
+    "price": 3999,
+  "image": "/7515257.jpg",
+  "images": ["/7515257.jpg", "/10069481.jpg"],
+    "category": "Accessories",
+    "description": "Noise-cancelling wireless headphones with long battery life.",
+    "stock": 30
+  },
+  {
+    "id": 17,
+    "name": "Cotton Scarf",
+    "price": 599,
+  "image": "/8991024.jpg",
+  "images": ["/8991024.jpg", "/9586688.jpg"],
+    "category": "Accessories",
+    "description": "Soft cotton scarf available in multiple colors.",
+    "stock": 80
+  },
+  {
+    "id": 18,
+    "name": "Phone Case",
+    "price": 399,
+    "image": "/9586688.jpg",
+    "images": ["/9586688.jpg", "/8991024.jpg"],
+    "category": "Accessories",
+    "description": "Protective phone case with shock-absorbent materials.",
+    "stock": 150
+  },
+  {
+    "id": 19,
+    "name": "Smartphone Pro",
+    "price": 44999,
+    "image": "/7515257.jpg",
+    "images": ["/7515257.jpg", "/9516481.jpg"],
+    "category": "Electronics",
+    "description": "Flagship smartphone with OLED display, 8GB RAM, 128GB storage.",
+    "stock": 25
+  },
+  {
+    "id": 20,
+    "name": "Budget Phone",
+    "price": 9999,
+    "image": "/10069481.jpg",
+    "images": ["/10069481.jpg", "/8991024.jpg"],
+    "category": "Electronics",
+    "description": "Affordable smartphone with long battery life and dual SIM support.",
+    "stock": 120
+  },
+  {
+    "id": 21,
+    "name": "Ultrabook Laptop",
+    "price": 79999,
+    "image": "/9586688.jpg",
+    "images": ["/9586688.jpg", "/9516481.jpg"],
+    "category": "Electronics",
+    "description": "Lightweight ultrabook with 16GB RAM, 512GB SSD and 14-inch display.",
+    "stock": 10
+  },
+  {
+    "id": 22,
+    "name": "Gaming Laptop",
+    "price": 119999,
+    "image": "/8991024.jpg",
+    "images": ["/8991024.jpg", "/10069481.jpg"],
+    "category": "Electronics",
+    "description": "High-performance laptop with dedicated GPU for gaming and content creation.",
+    "stock": 6
+  }
+]
