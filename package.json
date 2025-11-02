@@ -1,9 +1,5 @@
 {
-    "name": "Trendify",
-  "version": "0.1.0",
-  "private": true,
-  "homepage": "https://pradhappn.github.io/Frontend/",  // <--- ADD THIS LINE
-  "dependencies": {
+  
     "homepage": "https://pradhappn.github.io/Trendify",
   "name": "mini-ecommerce",
   "private": true,
